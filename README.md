@@ -1,4 +1,4 @@
-# tcgrw-backup
+# TCGRW Backup
 
 ```
 ".\save.bat" %commnad%
