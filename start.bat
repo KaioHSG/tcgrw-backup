@@ -7,5 +7,5 @@ echo Saving backup...
 tar -cf "%userProfile%\TCGRW Save.tar" "3559"
 echo --------------------------------------------------
 echo Starting game...
-start "" "%~dp0\.exe"
+start "" "%~dp0\GRW.exe"
 exit
