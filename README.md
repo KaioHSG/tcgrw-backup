@@ -1,5 +1,5 @@
 # TCGRW Backup
 
 ```
-".\start.bat" %commnad%
+".\start.bat" %command%
 ```
